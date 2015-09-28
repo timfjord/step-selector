@@ -1,0 +1,29 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Tim Maslyuchenko",
+        "email": "insside@gmail.com"
+      },
+      "libraryName": {
+        "original": "step-selector",
+        "camelized": "stepSelector",
+        "dasherized": "step-selector",
+        "slugified": "step-selector",
+        "parts": [
+          "step",
+          "selector"
+        ]
+      },
+      "includeModuleDirectives": false,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/step-selector",
+      "libraryUnitTestDirectory": "test/unit/step-selector",
+      "libraryUnitE2eDirectory": "test/e2e/step-selector"
+    }
+  }
+}

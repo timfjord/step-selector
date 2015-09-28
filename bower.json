@@ -1,0 +1,24 @@
+{
+  "name": "step-selector",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Tim Maslyuchenko",
+      "email": "insside@gmail.com"
+    }
+  ],
+  "main": ["dist/step-selector.js"],
+  "ignore": [
+    "src",
+    "test",
+    "gulpfile.js",
+    "karma-*.conf.js",
+    "**/.*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular-mocks": ">=1.2.0",
+    "angular-scenario": ">=1.2.0",
+    "angular": ">=1.2.0"
+  }
+}
